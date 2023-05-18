@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d52fd7cb-dacd-4d0d-aa6b-13f9a7ae5f61" name="Changes" comment="" />
+    <list default="true" id="d52fd7cb-dacd-4d0d-aa6b-13f9a7ae5f61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo-di.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/matulrich/di/model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/matulrich/di/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/matulrich/di/notification/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/matulrich/di/notification/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/matulrich/di/notification/SMSNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/matulrich/di/service/ActiveClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/matulrich/di/service/InvoiceGenerationService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
